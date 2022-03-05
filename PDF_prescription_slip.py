@@ -35,4 +35,4 @@ pdf.cell(0, 10, txt = "_________________", ln=2, align='L')
 pdf.cell(0, 10, txt = MyText, ln=2, align='L')
 
 # save the pdf with name.pdf
-pdf.output("DrPanda_presc.pdf")
+pdf.output("ePrescription.pdf")
