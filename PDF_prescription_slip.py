@@ -23,8 +23,8 @@ pdf.cell(0, 10, txt = " ", ln=2, align='C')
 
 pdf.cell(0, 10, txt = "Dr. Rishabh Panda, M.B.B.S., M.S.(Ortho.)", ln=2, align='C')
 
-pdf.cell(0, 10, txt = "Hyderabad, India (500032)", ln=2, align='R')
-pdf.cell(0, 10, txt = "Ph: (+91)7981927240", ln=2, align='R')
+pdf.cell(0, 10, txt = "Hyderabad, India (5000xx)", ln=2, align='R')
+pdf.cell(0, 10, txt = "Ph: (+91)xxx-yyyy-zz", ln=2, align='R')
 pdf.cell(0, 10, txt = "FAX:(207) 808 2015 2202", ln=2, align='R')
 
 pdf.cell(0, 10, txt = " ", ln=2, align='C')
