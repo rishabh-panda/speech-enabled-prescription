@@ -1,3 +1,4 @@
+from speech_to_text_BLOCK import MyText
 from fpdf import FPDF
 
 # saving FPDF() class into a variable pdf
