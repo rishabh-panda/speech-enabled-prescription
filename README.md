@@ -5,8 +5,8 @@ In general scenarios doctors prescribe medications to a patient using medical pr
 
 ### Installations
 Install the following modules:
-- ```pip install speechrecognition```
+- ```pip install SpeechRecognition```
 - ```pip install pipwin```
-- ```pipwin install pyaudio```
+- ```pip install PyAudio```
 - ```pip install pyttsx3```
 - ```pip install fpdf```
