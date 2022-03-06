@@ -1,5 +1,5 @@
 # Scribble-Doctor
-## AI (Automatic Speech Recognition) Enabled Medical Prescription using Google Web Speech API.
+## AI (Automatic Speech Recognition) Enabled Medical Prescription Generator using Google Web Speech API.
 ### Introduction
 In general scenarios, doctors prescribe medications to a patient using medical prescription slips. Keeping in mind the long queue of patients expecting to be treated/examined early, the major disadvantage of using prescription slips is wastage of paper, energy and time. And of course, with due respect, the horrible handwriting of doctors!!
 <br/> <br/>
